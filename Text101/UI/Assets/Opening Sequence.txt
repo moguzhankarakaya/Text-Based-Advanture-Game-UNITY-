@@ -1,0 +1,17 @@
+OPENING SCENE
+
+WOKE UP! You did it again. Where are you?
+Well...
+Seems like in the middle of a forest. Dense trees are rising
+above you clothing the sun rays coming at you. Yet you can see
+tip of your nose. Where are you?
+
+Do you remember how you ended up here? Don't think so. WOKE UP!
+Look around you. You need to go somewhere. It might not be a good
+idea to stay here after sun sets. Which way would you go?
+
+						(N)ORTH
+						   |
+		(W)EST <----                      ----> (E)AST
+						   |
+						(S)OUTH
