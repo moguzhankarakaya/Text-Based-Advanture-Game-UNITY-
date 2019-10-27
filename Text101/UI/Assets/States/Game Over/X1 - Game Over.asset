@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33381262cd4c8294599e54b1f574d09b, type: 3}
+  m_Name: X1 - Game Over
+  m_EditorClassIdentifier: 
+  storyText: "Not the best ending, huh?\n\nIt can be the traditional 'GAME OVER' equivelant
+    for this game. But you can name it differantly. \n\nWould you like to try it again?\n\n(S)tart
+    over the the game\n(Q)uit to the main menu"
+  nextStates:
+  - {fileID: 11400000, guid: a4433d5a4b5428e4bb40910a04b72d86, type: 2}
+  - {fileID: 11400000, guid: f5a85beadf74fbf42a646af191b22b3d, type: 2}
+  prevSteate: {fileID: 0}
+  stateStartKey: 0

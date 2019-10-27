@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33381262cd4c8294599e54b1f574d09b, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "WOKE UP! You did it again. Where are you?\r\nWell... \rSeems like in
+    the middle of a forest. Dense trees are rising\r above you clothing the sun rays
+    coming at you. Yet you can see\r tip of your nose. Where are you?\r\n\r\nDo you
+    remember how you ended up here? Don't think so. WOKE UP!\r Look around you. You
+    need to go somewhere. It might not be a good\r idea to stay here after the sun
+    set. Which way would you go?\r\n\n\t\t \t\t     (N)ORTH\r\n\t      \t      \t
+    \     \t|\r\n\t(W)EST <----        ----> (E)AST\r\n\t\t\t      \t\t    |\r\n\t\t\t\t
+    \    (S)OUTH"
+  nextStates:
+  - {fileID: 11400000, guid: 224ff0f9b80dc134a8267addf8995715, type: 2}
+  - {fileID: 11400000, guid: cfbd9d9c13e4e454fa2c193e26940a33, type: 2}
+  - {fileID: 11400000, guid: 3e31d41e772cecd4bb17cf0e3dcf56b5, type: 2}
+  - {fileID: 11400000, guid: a547df238e2f92347b3fe77407b26f27, type: 2}
+  prevSteate: {fileID: 11400000}
+  stateStartKey: 115
